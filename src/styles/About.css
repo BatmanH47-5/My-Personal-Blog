@@ -1,0 +1,18 @@
+/* ABOUT */
+.about {
+    padding: 4rem 0;
+    background-color: #f8f9fa;
+    text-align: center;
+  }
+  
+  .about .container {
+    max-width: 700px;
+    margin: auto;
+  }
+  
+  @media screen and (min-width: 1024px) {
+    section.about .container {
+      width: 60%;
+    }
+  }
+  

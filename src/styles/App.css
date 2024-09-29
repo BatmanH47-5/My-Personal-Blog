@@ -1,0 +1,29 @@
+/* App.css */
+:root {
+    --accent-color: #f5a841;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .container {
+    padding: 4rem 2rem;
+  }
+  
+  @media screen and (min-width: 1024px) {
+    .container {
+      padding: 4rem;
+    }
+  }
+  
+  a {
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: var(--accent-color);
+  }
+  

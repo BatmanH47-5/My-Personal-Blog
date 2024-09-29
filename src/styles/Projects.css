@@ -1,0 +1,17 @@
+/* PROJECTS */
+.projects {
+    padding: 4rem 0;
+  }
+  
+  .projects .card {
+    max-width: 17rem;
+    text-align: left;
+    margin: auto;
+  }
+  
+  .projects .card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+  
